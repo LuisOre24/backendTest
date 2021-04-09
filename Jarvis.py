@@ -1,2 +1,2 @@
 print("Hola Mundo !")
-print("vamos a conquistar el mundo !!!!!!")
+print("vamos a conquistar el mundo !!!!")
